@@ -13,7 +13,7 @@ This is a respository to showcase skills, share projects and track progress in D
 ## Table of Contents
 - [About](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Portfolio-Projects)
--   [Click Through Rate prediction through various machine learning algorithms](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Click-Through-Rate-Prediction-through-various-machine-learning-algorithms)
+    - [Click Through Rate prediction through various machine learning algorithms](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Click-Through-Rate-Prediction-through-various-machine-learning-algorithms)
 - [Tableau](https://public.tableau.com/app/profile/tanveer.alam)
 
 - [Education](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Education)
