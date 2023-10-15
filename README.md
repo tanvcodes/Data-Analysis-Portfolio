@@ -13,6 +13,7 @@ This is a respository to showcase skills, share projects and track progress in D
 ## Table of Contents
 - [About](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Portfolio-Projects)
+-   [Click Through Rate prediction through various machine learning algorithms](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Click-Through-Rate-Prediction-through-various-machine-learning-algorithms)
 - [Tableau](https://public.tableau.com/app/profile/tanveer.alam)
 
 - [Education](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Education)
@@ -22,7 +23,19 @@ This is a respository to showcase skills, share projects and track progress in D
 ## Portfolio Projects
 In thi section I will list data science projects brifly descriving the technoligy stack used to solve cases.
 
-### 
+### Click Through Rate Prediction through various machine learning algorithms
+**Code:**[`Click Through Rate prediction through various machine learning algorithms`](https://github.com/tanvcodes/PortfolioProjects/blob/main/CTR_Prediction.ipynb)
+**Goal:** To predict whether the audience will click on an ad or not and thus help the marketing team answer ad placement-related questions.
+**Description:** In online advertising, CTR is a very important metric for evaluating ad performance. CTR prediction systems are thus essential and widely used for sponsored search and real-time bidding.
+  Most of the websites you visit include ads. The online advertising industry is huge, and players such as Google, Amazon, and Facebook generate billions of dollars by targeting the correct audiences with relevant ads. Most of the decisions about ads are data-driven solutions such as the following: 
+
+    How do you know which ad to use and who to target?
+    Many companies advertise products in the same category, so how do you decide whose ad to display?
+    Which ad should be placed on which part of the web page?
+    Should a particular ad be pushed on a mobile device or remain on a desktop or laptop?
+    
+**Skills:** Python, Pandas, Machine Learning, Data Cleaning, Seaborn, Data Visualization
+**Results:** Device location, site domain and site category correlates better with the click through rate, investing more into it would result in better clikc through rate.
 
 
 ## Education
