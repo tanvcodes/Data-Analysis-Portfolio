@@ -26,11 +26,11 @@ In thi section I will list data science projects brifly descriving the technolig
 
 
 ## Education
-Univeristy of Arizona
+Univeristy of Arizona:
 Master of Science - MS, Data Science
 Sep 2022 - Sep 2023
 
-Indian Institute of Information Technology Jabalpur
+Indian Institute of Information Technology Jabalpur:
 Bacherlor's Degree, Mechanical Engineering
 2009-2013
 
