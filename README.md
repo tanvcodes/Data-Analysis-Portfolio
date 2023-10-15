@@ -14,6 +14,7 @@ This is a respository to showcase skills, share projects and track progress in D
 - [About](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Portfolio-Projects)
     - [Click Through Rate prediction through various machine learning algorithms](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Click-Through-Rate-Prediction-through-various-machine-learning-algorithms)
+    - [Uber Supply Demand Gap Analysis](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Uber-Supply-Demand-Gap-Analysis)
 - [Tableau](https://public.tableau.com/app/profile/tanveer.alam)
 
 - [Education](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/README.md#Education)
@@ -39,6 +40,15 @@ In thi section I will list data science projects brifly descriving the technolig
 
 **Results:** Device location, site domain and site category correlates better with the click through rate, investing more into it would result in better clikc through rate.
 
+### Uber Supply Demand Gap Analysis
+**Code:** [`Uber Supply Demand Gap Analysis`](https://github.com/tanvcodes/PortfolioProjects/blob/main/Uber%20Supply%20Demand%20Gap.ipynb)
+
+**Goal:** To Analyse the most pressing problem for Uber regarding supply-demand gap and what is the cause of that.
+
+**Description:** Almost all of us have some experience of traveling to and from the airport and have used Uber or any other cab service for this travel, and many times we face the problem of cancellation by the driver or non-availability of cars.
+Well, if these are the problems faced by customers, these very issues also impact the business of Uber. If drivers cancel the request of riders or if cars are unavailable, Uber loses out on its revenue.
+
+**Skills:** Python, Pandas, Data Visualization, Exploratory Data Analysis, Seaborn, Matplotlib
 
 ## Education
 Univeristy of Arizona:
