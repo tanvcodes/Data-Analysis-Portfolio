@@ -6,7 +6,7 @@ During my studies and work, I honed my ability to work with complex data and dev
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My resume in [pdf](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/Tanveer_resume.pdf)
+My resume in [pdf](https://github.com/tanvcodes/Data-Analysis-Portfolio/blob/main/Tanveer_Resume.pdf)
 
 This is a respository to showcase skills, share projects and track progress in Data Science related topics.
 
